@@ -7,8 +7,8 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "CT House District 2 Voter Guide: Raghib Allie-Brennan vs. Debbie Rizzo",
-  description: "An in-depth, research-backed comparison of Democratic incumbent State Representative Raghib Allie-Brennan and Republican challenger Debbie Rizzo for Bethel and Danbury, CT.",
+  title: "CT House District 2 Voter Guide: Candidate Records & Platforms",
+  description: "A comparison of legislative records, enacted statutes, and campaign platforms for Connecticut House District 2 (Bethel and Danbury).",
   keywords: [
     "Raghib Allie-Brennan",
     "Debbie Rizzo",

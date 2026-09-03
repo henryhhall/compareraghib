@@ -63,7 +63,7 @@ export default function Navbar() {
               href="#deep-dive"
               className="px-3 py-2 rounded-lg hover:text-blue-700 hover:bg-slate-100 transition-colors"
             >
-              Deep Dives
+              Policy Analysis
             </a>
             <a
               href="#district-impact"
@@ -140,7 +140,7 @@ export default function Navbar() {
             onClick={() => setMobileMenuOpen(false)}
             className="block px-3 py-2 rounded-lg text-base font-medium text-slate-700 hover:bg-slate-100"
           >
-            Issue Deep Dives
+            Policy Analysis
           </a>
           <a
             href="#district-impact"

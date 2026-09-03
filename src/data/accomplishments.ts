@@ -37,8 +37,8 @@ export const DISTRICT_PROJECTS: ProjectItem[] = [
     title: "Danbury Career Academy at the Summit",
     fundingAmount: "$80,000,000+ (State Share)",
     year: "2022–2024",
-    description: "Fought tirelessly alongside the Danbury legislative delegation to authorize state reimbursement and bonding for Danbury's transformative high school career academy campus.",
-    impactHighlight: "Directly solves severe overcrowding in Danbury High School while providing cutting-edge career pathways in healthcare, engineering, and cybersecurity."
+    description: "Collaborated with the Danbury legislative delegation to authorize state reimbursement and bonding for Danbury's high school career academy campus.",
+    impactHighlight: "Reduces overcrowding at Danbury High School while adding specialized career pathways in healthcare, engineering, and cybersecurity."
   },
   {
     id: "bethel-fire-departments",
@@ -47,8 +47,8 @@ export const DISTRICT_PROJECTS: ProjectItem[] = [
     title: "Volunteer Fire Department Gear & Facility Grants",
     fundingAmount: "$350,000+",
     year: "2020–2025",
-    description: "Delivered state public safety assistance grants for the Bethel Volunteer Fire Department and Stony Hill Volunteer Fire Department to acquire modern turn-out gear, thermal imaging equipment, and apparatus upgrades.",
-    impactHighlight: "Equipped volunteer first responders with life-saving equipment without burdening the town's local operating budget."
+    description: "Delivered state public safety assistance grants for the Bethel Volunteer Fire Department and Stony Hill Volunteer Fire Department to acquire turn-out gear, thermal imaging equipment, and apparatus upgrades.",
+    impactHighlight: "Equipped volunteer first responders with safety gear without adding costs to the town's local operating budget."
   },
   {
     id: "danbury-pal",
@@ -57,8 +57,8 @@ export const DISTRICT_PROJECTS: ProjectItem[] = [
     title: "Danbury Police Activities League (PAL) Youth Center",
     fundingAmount: "$250,000+",
     year: "2022–2025",
-    description: "Won targeted state youth crime diversion grants for Danbury PAL programs, after-school sports clinics, and mentoring initiatives between police officers and local youth.",
-    impactHighlight: "Proven crime reduction among teenagers and fostered trust and positive relationships between Danbury police and the community."
+    description: "Secured state youth diversion grants for Danbury PAL programs, after-school sports clinics, and mentoring initiatives between police officers and local youth.",
+    impactHighlight: "Expands youth recreation and strengthens ties between Danbury police officers and local students."
   },
   {
     id: "bethel-downtown-steap",
@@ -67,8 +67,8 @@ export const DISTRICT_PROJECTS: ProjectItem[] = [
     title: "Greenwood Avenue Streetscape & Walkability Grants",
     fundingAmount: "$600,000+",
     year: "2021–2025",
-    description: "Directed Small Town Economic Assistance Program (STEAP) grants for sidewalk reconstruction, decorative LED lighting, and pedestrian safety enhancements along Bethel's historic downtown Greenwood Avenue.",
-    impactHighlight: "Boosted foot traffic for independent shops and restaurants while enhancing pedestrian safety for commuters and seniors."
+    description: "Directed Small Town Economic Assistance Program (STEAP) grants for sidewalk reconstruction, LED lighting, and pedestrian crosswalk enhancements along downtown Greenwood Avenue in Bethel.",
+    impactHighlight: "Increased foot traffic for local businesses and improved pedestrian safety for commuters and seniors."
   },
   {
     id: "school-mental-health",

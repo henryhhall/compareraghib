@@ -27,10 +27,10 @@ export const CANDIDATES: Record<string, Candidate> = {
     party: "Democrat",
     partyColor: "#1D4ED8",
     title: "State Representative (Incumbent) & Chief Majority Whip",
-    tagline: "Proven, Bipartisan Leadership Delivering Real Results for Bethel and Danbury",
+    tagline: "Legislative Leadership and Enacted Results for Bethel and Danbury",
     district: "Connecticut House District 2",
     townsCovered: "Bethel & Danbury",
-    bio: "Raised in Bethel and a graduate of Bethel High School (2009) and Marymount Manhattan College, Raghib Allie-Brennan is the son of a small business owner who immigrated from Guyana. Prior to his election to the General Assembly in 2018, Raghib served as a congressional advisor in the U.S. House of Representatives specializing in energy policy, disaster mitigation, and civil rights. Serving his 4th term, Raghib serves as Chief Majority Whip and is a leading member of the Moderate Caucus, bridging party divides to secure landmark utility reforms, tax cuts, and millions for local schools, parks, and first responders.",
+    bio: "Raised in Bethel and a graduate of Bethel High School (2009) and Marymount Manhattan College, Raghib Allie-Brennan is the son of a small business owner who immigrated from Guyana. Prior to his election to the General Assembly in 2018, Raghib served as a congressional advisor in the U.S. House of Representatives specializing in energy policy, disaster mitigation, and civil rights. In his fourth term, Raghib is Chief Majority Whip and an executive member of the Moderate Caucus, working across party lines to enact performance-based utility reforms, state income tax reductions, and direct capital funding for local schools, parks, and first responders.",
     experienceYears: 8,
     leadershipRoles: [
       "Chief Majority Whip (2025–present)",
@@ -47,11 +47,11 @@ export const CANDIDATES: Record<string, Candidate> = {
     education: "B.A. in International Relations, Marymount Manhattan College (2013); Bethel High School (2009)",
     hometown: "Bethel, CT (Lifelong resident)",
     keyStrengths: [
-      "Authored & passed the landmark 'Take Back Our Grid Act' holding utilities like Eversource accountable",
-      "Delivered over $5M+ in direct bonding for Bethel & Danbury infrastructure, parks, and safety",
-      "Honored as 'Affordability Champion' by CBIA for voting to cut state income taxes & cap spending",
-      "Openly accessible, trusted constituent advocate with an 8-year record of bipartisan problem solving",
-      "Champion of reproductive freedom, mental health support, and public school funding"
+      "Authored and passed the 'Take Back Our Grid Act' (PA 20-5) establishing performance-based utility ratemaking",
+      "Secured over $5M in state infrastructure bonding for Bethel and Danbury schools, parks, and roads",
+      "Named 'Affordability Champion' by CBIA for voting to cut state income taxes and maintain fiscal guardrails",
+      "Constituent advocate with an 8-year legislative record representing Bethel and Danbury",
+      "Supported reproductive healthcare protections, youth mental health services, and ECS public school funding"
     ],
     notableRecognitions: [
       "CBIA 'Affordability Champion' Award (Connecticut Business & Industry Association)",
@@ -69,10 +69,10 @@ export const CANDIDATES: Record<string, Candidate> = {
     party: "Republican",
     partyColor: "#B91C1C",
     title: "Challenger & Community Activist",
-    tagline: "Running on 'Common Sense Priorities' and Traditional Party Platform",
+    tagline: "Challenger Platform Focused on Utility Rates and State Spending Reductions",
     district: "Connecticut House District 2",
     townsCovered: "Bethel & Danbury",
-    bio: "Debbie Rizzo is a 45-year resident of Danbury who previously ran for Danbury City Council in 2023. Selected by the Republican Town Committees of Bethel and Danbury, Rizzo has framed her campaign around conservative economic principles, voicing deep frustration with rising Eversource electric rates, high state taxes, and immigration enforcement policies. While energetic on social media, Rizzo has no prior legislative or municipal voting record and proposes broad state spending reductions without specified funding offsets for local school or road aid.",
+    bio: "Debbie Rizzo is a 45-year resident of Danbury who previously ran for Danbury City Council in 2023. Selected by the Republican Town Committees of Bethel and Danbury, Rizzo has framed her campaign around conservative fiscal policy, opposition to Eversource rate increases, lower state taxes, and law enforcement support. Rizzo has not previously held legislative office and advocates broad reductions in state spending and pausing state renewable energy mandates.",
     experienceYears: 0,
     leadershipRoles: [
       "Danbury Republican Town Committee Nominee",
@@ -84,9 +84,9 @@ export const CANDIDATES: Record<string, Candidate> = {
     education: "Longtime Danbury community member and local resident",
     hometown: "Danbury, CT (45-year resident)",
     keyStrengths: [
-      "Energetic voice reflecting grassroots Republican sentiment on consumer electric bills",
-      "Strong advocate for law enforcement and 'Back the Blue' rhetoric",
-      "Pledges to oppose all new state taxes and regulations"
+      "Grassroots advocate focused on household electric bills and cost of living",
+      "Advocates for law enforcement support and revisiting 2020 police accountability statutes",
+      "Pledges to oppose new state taxes and reduce state agency expenditures"
     ],
     notableRecognitions: [
       "Endorsed by the Danbury & Bethel Republican Town Committees"

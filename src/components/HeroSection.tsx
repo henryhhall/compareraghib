@@ -27,27 +27,27 @@ export default function HeroSection() {
         {/* Main Headline */}
         <div className="text-center max-w-4xl mx-auto mb-14">
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white leading-tight">
-            Proven Results vs. Campaign Rhetoric: <br className="hidden sm:inline" />
+            Connecticut House District 2: <br className="hidden sm:inline" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-sky-300 to-indigo-300">
-              Who Truly Delivers for District 2?
+              Legislative Records & Candidate Positions
             </span>
           </h1>
           <p className="mt-5 text-base sm:text-xl text-slate-300 leading-relaxed max-w-3xl mx-auto">
-            Bethel and Danbury face critical choices on electric utility bills, school funding, property taxes, and local infrastructure. Here is an honest, data-backed comparison of 4-term Democratic incumbent <strong className="text-white">Representative Raghib Allie-Brennan</strong> and Republican challenger <strong className="text-white">Debbie Rizzo</strong>.
+            A comprehensive review of 4-term Democratic incumbent <strong className="text-white">Representative Raghib Allie-Brennan</strong> and Republican challenger <strong className="text-white">Debbie Rizzo</strong> on electric rates, school aid, property taxes, and local infrastructure in Bethel and Danbury.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <a
               href="#comparison"
               className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-semibold text-sm sm:text-base shadow-lg shadow-blue-600/30 hover:shadow-blue-600/50 transition-all hover:-translate-y-0.5"
             >
-              Explore Issue-by-Issue Matrix
+              Explore Issue Comparison
               <ArrowRight className="w-4 h-4" />
             </a>
             <a
               href="#district-impact"
               className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-slate-700/80 hover:bg-slate-700 text-slate-200 hover:text-white font-semibold text-sm sm:text-base border border-slate-600 transition-all"
             >
-              See Raghib’s $5M+ Bethel & Danbury Wins
+              Review Bethel & Danbury State Grants
             </a>
           </div>
         </div>
@@ -57,7 +57,7 @@ export default function HeroSection() {
           {/* Card 1: Raghib Allie-Brennan */}
           <div className="relative rounded-2xl bg-gradient-to-b from-slate-800/90 to-slate-850/90 border-2 border-blue-500/60 shadow-2xl p-6 sm:p-8 flex flex-col justify-between backdrop-blur-sm">
             <div className="absolute -top-3.5 right-6 px-3.5 py-1 rounded-full text-xs font-extrabold uppercase tracking-wider bg-blue-600 text-white shadow-md flex items-center gap-1.5">
-              <CheckCircle2 className="w-4 h-4" /> Proven Incumbent Record
+              <CheckCircle2 className="w-4 h-4" /> Legislative Record
             </div>
 
             <div>
@@ -82,26 +82,26 @@ export default function HeroSection() {
               </div>
 
               <p className="text-sm text-slate-300 leading-relaxed mb-6">
-                Raised in Bethel, Raghib combines lifelong community roots with top-tier legislative influence in Hartford. As Chief Majority Whip, he co-authored the <em>Take Back Our Grid Act</em> to rein in Eversource, secured landmark middle-class tax cuts recognized by CBIA, and delivered millions directly to Bethel and Danbury schools, parks, and first responders.
+                Raised in Bethel, Raghib is Chief Majority Whip and serves on the Energy and Technology Committee. He co-authored the Take Back Our Grid Act (PA 20-5) to institute performance-based utility ratemaking, supported state income and pension tax reductions, and secured state capital grants for Bethel and Danbury schools, parks, and first responders.
               </p>
 
               {/* Key Proof Points */}
               <div className="space-y-3 mb-6 bg-slate-900/60 rounded-xl p-4 border border-slate-700/50">
                 <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400 flex items-center gap-1.5">
-                  <Award className="w-4 h-4 text-amber-400" /> Key Proven Accomplishments
+                  <Award className="w-4 h-4 text-amber-400" /> Key Legislative Accomplishments
                 </h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-200">
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>Author of Public Act 20-5 (Take Back Our Grid):</strong> Enacted performance-based utility ratemaking.</span>
+                    <span>Author of Public Act 20-5 (Take Back Our Grid Act) establishing performance-based utility ratemaking.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>CBIA 'Affordability Champion':</strong> Voted for historic middle-class income & pension tax cuts.</span>
+                    <span>Recognized as 'Affordability Champion' by CBIA after voting to reduce state income tax rates and cap state spending.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>$5,000,000+ Secured for District 2:</strong> Clarke Business Park, Parloa Park, Danbury Career Academy & volunteer fire grants.</span>
+                    <span>Secured over $5M in state infrastructure bonding for Clarke Business Park, Parloa Park, Danbury Career Academy, and local volunteer fire departments.</span>
                   </li>
                 </ul>
               </div>
@@ -150,7 +150,7 @@ export default function HeroSection() {
               </div>
 
               <p className="text-sm text-slate-300 leading-relaxed mb-6">
-                A 45-year resident of Danbury, Debbie Rizzo enters the race emphasizing conservative fiscal principles, voice against Eversource rate increases, and traditional law enforcement support. While expressing ratepayer frustration, her campaign has not outlined how state funding cuts would protect Bethel and Danbury schools or prevent municipal tax hikes.
+                A 45-year resident of Danbury, Debbie Rizzo is campaigning on conservative fiscal policy, utility rate reductions, and law enforcement support. Her platform advocates broad reductions in state spending and an end to state clean energy mandates.
               </p>
 
               {/* Key Platform Points */}
@@ -161,15 +161,15 @@ export default function HeroSection() {
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-300">
                   <li className="flex items-start gap-2">
                     <span className="text-red-400 font-bold">•</span>
-                    <span><strong>Electric Rates:</strong> Criticizes Eversource charges & calls for pausing state renewable energy mandates.</span>
+                    <span>Electric Rates: Protests Eversource charges and calls for pausing state renewable energy portfolio mandates.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-red-400 font-bold">•</span>
-                    <span><strong>State Budget:</strong> General pledge for Hartford spending cuts to relieve homeowner property taxes.</span>
+                    <span>State Budget: Pledges state spending cuts in Hartford to relieve municipal taxpayer burdens.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-red-400 font-bold">•</span>
-                    <span><strong>Public Safety:</strong> 'Back the Blue' rhetoric and calls to revisit 2020 police accountability statutes.</span>
+                    <span>Public Safety: Emphasizes law enforcement support and calls for revisiting 2020 police accountability statutes.</span>
                   </li>
                 </ul>
               </div>
@@ -185,24 +185,24 @@ export default function HeroSection() {
         {/* Quick Comparison Highlights Metric Bar */}
         <div className="mt-12 bg-slate-800/80 border border-slate-700 rounded-2xl p-6 max-w-5xl mx-auto shadow-lg">
           <h3 className="text-center text-xs font-bold uppercase tracking-widest text-slate-400 mb-6">
-            At A Glance: Legislative Effectiveness & District Clout
+            At A Glance: Candidate Experience & District Grants
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             <div className="border-r border-slate-700/80 last:border-none pr-4">
               <div className="text-3xl font-extrabold text-blue-400">4 Terms</div>
-              <div className="text-xs text-slate-300 mt-1">Raghib’s Track Record (vs. 0 for Rizzo)</div>
+              <div className="text-xs text-slate-300 mt-1">Terms Served (Raghib / Rizzo: 4 / 0)</div>
             </div>
             <div className="border-r border-slate-700/80 last:border-none pr-4">
               <div className="text-3xl font-extrabold text-emerald-400">$5M+</div>
-              <div className="text-xs text-slate-300 mt-1">Direct State Grants Won for Bethel/Danbury</div>
+              <div className="text-xs text-slate-300 mt-1">State Capital Grants Directed to District 2</div>
             </div>
             <div className="border-r border-slate-700/80 last:border-none pr-4">
-              <div className="text-3xl font-extrabold text-sky-400">#3 Leader</div>
-              <div className="text-xs text-slate-300 mt-1">Raghib’s Rank (Chief Majority Whip)</div>
+              <div className="text-3xl font-extrabold text-sky-400">House Whip</div>
+              <div className="text-xs text-slate-300 mt-1">Raghib Legislative Leadership Position</div>
             </div>
             <div>
               <div className="text-3xl font-extrabold text-amber-400">CBIA Award</div>
-              <div className="text-xs text-slate-300 mt-1">Honored as 'Affordability Champion'</div>
+              <div className="text-xs text-slate-300 mt-1">Business Association Affordability Rating</div>
             </div>
           </div>
         </div>

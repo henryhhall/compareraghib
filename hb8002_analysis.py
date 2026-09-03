@@ -100,9 +100,9 @@ def get_hb8002_analysis() -> HB8002ComparisonReport:
                 "Danbury roads, parks, and downtown streetscapes."
             ),
             raghib_action=(
-                "Broke party ranks to oppose leveraging state grants against "
-                "suburban towns. Fought to ensure Bethel's $5M+ in capital "
-                "bonding remains protected regardless of regional quota fights."
+                "Opposed conditioning municipal capital grants on adherence to "
+                "state housing quotas, advocating that Bethel and Danbury infrastructure "
+                "bonding remain protected."
             ),
             rizzo_critique=(
                 "Criticizes Hartford for coercing towns into state-mandated "
@@ -135,27 +135,22 @@ def get_hb8002_analysis() -> HB8002ComparisonReport:
 
     roll_call_verdict = {
         "Raghib Allie-Brennan (Incumbent Democrat)": (
-            "Actual Roll-Call Vote: Voted NO on HB 8002 on the House floor. "
-            "Defied Governor Lamont and progressive legislative leaders to "
-            "protect Bethel and Danbury home rule. As Chief Majority Whip and "
-            "Moderate Caucus leader, Raghib has the internal leverage to negotiate "
-            "statutory amendments and protect town grants."
+            "Roll-Call Vote: Voted NO on HB 8002 on the House floor during "
+            "the Special Session, opposing state consolidation of local planning. "
+            "As Chief Majority Whip, Raghib participates in House leadership "
+            "negotiations on municipal bonding and statutory revisions."
         ),
         "Debbie Rizzo (Republican Challenger)": (
-            "Campaign Position: Attacks HB 8002 using partisan rhetoric as evidence "
-            "of 'Hartford Democrats overreaching.' However, her critique ignores "
-            "that the Democratic incumbent actually voted against the bill. As a "
-            "freshman in a legislative minority, Rizzo would possess zero votes "
-            "or leverage to repeal Public Act 25-1."
+            "Campaign Position: Opposes HB 8002 as state overreach. As a "
+            "member of the legislative minority caucus, repealing Public Act "
+            "25-1 would require cross-aisle sponsorship and committee support."
         ),
     }
 
     strategic_summary = (
-        "The race for District 2 presents a stark contrast on HB 8002: Debbie "
-        "Rizzo campaigns on anger against state zoning overreach from the outside, "
-        "while Representative Raghib Allie-Brennan actually used his legislative "
-        "vote on the House floor to vote NO against his own party leadership. "
-        "Raghib proved his hometown loyalty supersedes party loyalty."
+        "Both candidates oppose state preemption in HB 8002: Debbie Rizzo "
+        "advocates repeal on the campaign trail, while Representative Raghib "
+        "Allie-Brennan voted NO on the House floor in the November Special Session."
     )
 
     return HB8002ComparisonReport(

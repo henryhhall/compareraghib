@@ -86,10 +86,9 @@ def get_housing_affordability_data() -> HousingResearchReport:
                 "and opposes top-down state interference in local land use."
             ),
             analytical_verdict=(
-                "Both candidates oppose 8-30g overreach, but Raghib is Chief "
-                "Majority Whip with internal leverage to craft amendments within "
-                "the House Democratic caucus, whereas a minority freshman lacks "
-                "the committee votes to enact full statutory repeal."
+                "Both candidates oppose state preemption of local zoning. Raghib "
+                "voted against HB 5002 and advanced local planning amendments, "
+                "while Rizzo advocates statutory repeal."
             ),
         ),
         HousingPolicyDimension(
@@ -114,8 +113,8 @@ def get_housing_affordability_data() -> HousingResearchReport:
             ),
             analytical_verdict=(
                 "Raghib translated neighborhood fire safety concerns into "
-                "concrete statutory language that directly protects volunteer "
-                "firefighters and future tenants."
+                "statutory reporting standards protecting volunteer firefighters "
+                "and tenants."
             ),
         ),
         HousingPolicyDimension(
@@ -127,10 +126,9 @@ def get_housing_affordability_data() -> HousingResearchReport:
                 "'Fair Share' allocation targets for small suburban municipalities."
             ),
             raghib_record=(
-                "Broke with progressive caucus leadership to vote NO on top-down "
-                "housing bills (such as HB 5002) that failed to account for "
-                "school capacity, local infrastructure limits, and municipal "
-                "tax burdens in Bethel and Danbury."
+                "Voted NO on omnibus housing bills (including HB 5002) that "
+                "failed to account for school capacity, local infrastructure limits, "
+                "and municipal tax burdens in Bethel and Danbury."
             ),
             rizzo_platform=(
                 "Vigorously campaigns against 'Fair Share' housing mandates and "
@@ -138,9 +136,8 @@ def get_housing_affordability_data() -> HousingResearchReport:
                 "arguing small towns lack big-city infrastructure."
             ),
             analytical_verdict=(
-                "Raghib demonstrated the political independence to cast "
-                "decisive votes against party-line housing mandates, proving his "
-                "allegiance remains with Bethel and Danbury over party leaders."
+                "Raghib voted NO on HB 5002 on the House floor, opposing "
+                "top-down density mandates that bypassed town infrastructure reviews."
             ),
         ),
         HousingPolicyDimension(
@@ -164,9 +161,9 @@ def get_housing_affordability_data() -> HousingResearchReport:
                 "starter homes or young family retention."
             ),
             analytical_verdict=(
-                "Raghib pairs defensive protection of town zoning with positive "
-                "infrastructure investments that make smart, local growth "
-                "feasible and economically rewarding."
+                "Raghib voted against state preemption while securing capital "
+                "infrastructure bonding for downtown transit corridors. Rizzo "
+                "opposes density mandates and supports market deregulation."
             ),
         ),
     ]

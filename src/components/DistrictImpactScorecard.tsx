@@ -32,13 +32,13 @@ export default function DistrictImpactScorecard() {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-12">
           <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800 border border-emerald-200 mb-3">
-            <MapPin className="w-3.5 h-3.5" /> Tangible District Investments
+            <MapPin className="w-3.5 h-3.5" /> State Capital Funding
           </div>
           <h2 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight">
-            How Raghib Delivers for Bethel, Danbury & Connecticut
+            State Capital Grants & Infrastructure in District 2
           </h2>
           <p className="mt-3 text-base text-slate-600">
-            A state representative's most vital duty is bringing state tax dollars back home to improve our local infrastructure, schools, and quality of life. Here is the verified record of what Raghib Allie-Brennan has brought to our community.
+            A summary of state capital bonding and STEAP grants directed to Bethel and Danbury projects during Raghib Allie-Brennan's terms in office.
           </p>
         </div>
 
@@ -114,13 +114,13 @@ export default function DistrictImpactScorecard() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">
             <div className="lg:col-span-2 space-y-3">
               <span className="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-blue-500/20 text-blue-300 border border-blue-400/30">
-                The Cost of Inexperience
+                Legislative Seniority
               </span>
               <h3 className="text-2xl sm:text-3xl font-black text-white">
-                Why Bethel & Danbury Cannot Afford to Lose Our Senior Seat in Hartford
+                Legislative Leadership & District Funding Allocation
               </h3>
               <p className="text-sm text-slate-300 leading-relaxed">
-                As <strong>Chief Majority Whip</strong> and an executive member of the <strong>Moderate Democratic Caucus</strong>, Raghib Allie-Brennan has direct access to House leadership, committee chairs, and the Governor’s budget team. Debbie Rizzo has no legislative experience and would enter the minority party with zero seniority or committee sway, forfeiting our district’s clout for bonding, road repairs, and school aid.
+                As <strong>Chief Majority Whip</strong> and an executive member of the <strong>Moderate Democratic Caucus</strong>, Raghib Allie-Brennan participates in House leadership meetings, committee scheduling, and State Bond Commission discussions. Debbie Rizzo has not previously served in legislative office and would enter the minority party without committee rank, which affects a representative's ability to direct state capital bonding and municipal grants.
               </p>
             </div>
             <div className="bg-white/10 rounded-xl p-5 border border-white/10 text-center">
@@ -129,7 +129,7 @@ export default function DistrictImpactScorecard() {
                 Direct District 2 Bonding Secured
               </div>
               <p className="text-xs text-slate-300 italic">
-                "Raghib works with everyone—Republicans, Democrats, town selectmen, and mayors—because his sole priority is delivering results for Bethel and Danbury."
+                "Raghib works with officials across both parties, including town selectmen and mayors, to deliver capital projects for Bethel and Danbury."
               </p>
             </div>
           </div>

@@ -52,10 +52,10 @@ export default function ComparisonMatrix() {
             <Scale className="w-3.5 h-3.5" /> Side-by-Side Comparison
           </div>
           <h2 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight">
-            Honest Issue Comparison: Record vs. Rhetoric
+            Side-by-Side Issue Comparison
           </h2>
           <p className="mt-3 text-base text-slate-600">
-            Compare Debbie Rizzo’s stated campaign platform with Raghib Allie-Brennan’s actual legislative votes, enacted laws, and district results.
+            Review Debbie Rizzo's stated campaign platform alongside Raghib Allie-Brennan's legislative votes, enacted laws, and district funding.
           </p>
         </div>
 
@@ -100,8 +100,8 @@ export default function ComparisonMatrix() {
                         <span className="text-xs font-bold uppercase tracking-wider text-slate-500">
                           {issue.category}
                         </span>
-                        <span className="px-2 py-0.5 text-[11px] font-bold rounded-full bg-emerald-100 text-emerald-800 border border-emerald-200">
-                          Raghib Advantage
+                        <span className="px-2 py-0.5 text-[11px] font-bold rounded-full bg-blue-100 text-blue-800 border border-blue-200">
+                          District Priority
                         </span>
                       </div>
                       <h3 className="text-lg sm:text-xl font-extrabold text-slate-900 mt-0.5">
@@ -112,11 +112,9 @@ export default function ComparisonMatrix() {
 
                   <div className="flex items-center justify-between sm:justify-end gap-4 shrink-0">
                     <div className="text-right hidden sm:block">
-                      <div className="text-xs text-slate-500 font-medium">Effectiveness Score</div>
-                      <div className="text-sm font-black text-slate-800">
-                        <span className="text-blue-600">{issue.verdict.impactScore.raghibScore}</span> vs{" "}
-                        <span className="text-slate-400">{issue.verdict.impactScore.rizzoScore}</span>
-                      </div>
+                      <span className="text-xs font-semibold text-slate-500 bg-slate-100 px-2.5 py-1 rounded-md border border-slate-200">
+                        {isExpanded ? "Collapse" : "Review Stances"}
+                      </span>
                     </div>
                     <button
                       className="p-2 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors"
@@ -229,12 +227,12 @@ export default function ComparisonMatrix() {
                       </div>
                     </div>
 
-                    {/* Bottom Line Verdict Card */}
+                    {/* District Impact Analysis Card */}
                     <div className="bg-gradient-to-r from-slate-900 to-blue-950 text-white rounded-xl p-5 border border-blue-900 shadow-md">
                       <div className="flex items-center gap-2 mb-2">
                         <Scale className="w-4 h-4 text-blue-400" />
                         <h4 className="text-xs font-extrabold uppercase tracking-wider text-blue-300">
-                          The Bottom Line for Bethel & Danbury Voters
+                          District Impact Analysis
                         </h4>
                       </div>
                       <p className="text-sm text-slate-200 leading-relaxed font-medium mb-3">

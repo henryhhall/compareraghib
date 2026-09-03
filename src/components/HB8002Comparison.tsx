@@ -197,14 +197,14 @@ export default function HB8002Comparison() {
                     •
                   </div>
                   <span>
-                    <strong>Rhetoric vs. Reality:</strong> Attacks Hartford Democrats broadly, but overlooks that Raghib Allie-Brennan actually voted NO against the bill.
+                    <strong>Roll Call Context:</strong> Campaign materials critique Hartford Democrats generally, but Raghib Allie-Brennan voted NO on the House floor.
                   </span>
                 </li>
               </ul>
             </div>
 
             <div className="mt-8 pt-4 border-t border-slate-700/60 text-xs text-amber-300/90 font-medium">
-              <strong>The Reality:</strong> As a freshman backbencher in a deep Republican minority, Rizzo would have zero legislative leverage to repeal or alter Public Act 25-1.
+              <strong>Legislative Context:</strong> In a legislature with Democratic majorities, a member of the minority caucus faces procedural barriers to amending Public Act 25-1 without cross-aisle sponsorship.
             </div>
           </div>
         </div>
@@ -293,20 +293,16 @@ export default function HB8002Comparison() {
           </div>
         </div>
 
-        {/* The Bottom Line Callout */}
+        {/* Summary Callout */}
         <div className="rounded-3xl bg-gradient-to-r from-blue-900/60 via-indigo-900/60 to-slate-800/80 border border-blue-500/40 p-8 sm:p-10 text-center">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-blue-500/20 text-blue-300 border border-blue-400/30 mb-3">
-            <Scale className="w-3.5 h-3.5" /> The Bottom Line on HB 8002
+            <Scale className="w-3.5 h-3.5" /> Legislative Summary on HB 8002
           </div>
           <h3 className="text-2xl sm:text-3xl font-black text-white max-w-2xl mx-auto">
-            Debbie Rizzo Campaigned Against HB 8002 on Facebook. <br />
-            Raghib Allie-Brennan Voted NO on the House Floor.
+            Candidate Positions on HB 8002 (PA 25-1)
           </h3>
           <p className="mt-4 text-sm sm:text-base text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            When party leadership demanded a party-line vote in the November Special Session,
-            Representative Raghib Allie-Brennan put the residents of Bethel and Danbury first.
-            His vote against HB 8002 proves that District 2 has a fighter with the courage to vote
-            against his own party and the senior leadership clout to deliver real results.
+            In the November Special Session, Representative Raghib Allie-Brennan voted against HB 8002 alongside Bethel and Danbury municipal officials. Debbie Rizzo strongly opposes the bill's regional mandates, while Raghib exercised his floor vote in Hartford to oppose state preemption of local zoning.
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-4">
             <a

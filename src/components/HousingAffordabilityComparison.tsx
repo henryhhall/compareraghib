@@ -29,15 +29,15 @@ export default function HousingAffordabilityComparison() {
       shortLabel: "8-30g & Bethel Defense",
       headline: "Standing Up to Predatory Developers & Preserving Town Control",
       summary:
-        "Connecticut General Statutes Sec. 8-30g allows developers to override local town zoning if fewer than 10% of homes meet state deed-restricted guidelines, putting enormous pressure on Bethel and Danbury neighborhoods.",
+        "Connecticut General Statutes Sec. 8-30g allows developers to override local town zoning if fewer than 10% of homes meet state deed-restricted guidelines, putting pressure on Bethel and Danbury neighborhoods.",
       localBattle:
-        "In Bethel, developer Vessel Technologies proposed a controversial 75-unit, five-story apartment building on a transition parcel, attempting to use 8-30g to bypass local Planning & Zoning standards, fire department clearances, and parking ratios.",
+        "In Bethel, developer Vessel Technologies proposed a 75-unit, five-story apartment building on a transition parcel, attempting to use 8-30g to bypass local Planning & Zoning standards, fire department clearances, and parking ratios.",
       raghibAction: {
-        tagline: "Called Top-Down Mandates 'Lazy Policy' & Defended Town Boards",
+        tagline: "Voted Against Top-Down Mandates & Sponsored Local Planning Amendments",
         bullets: [
-          "Publicly stood with Bethel residents and local P&Z Commissioners against predatory 8-30g developer lawsuits.",
+          "Supported Bethel residents and local P&Z Commissioners in contested 8-30g developer appeals.",
           "Authored amendments to Section 8-30g granting municipal 'housing unit-equivalent points' to towns that proactively craft their own Affordable Housing Plans.",
-          "Leveraged his position as Chief Majority Whip and Moderate Democratic Caucus leader to block omnibus developer-backed zoning preemption.",
+          "Used his role as Chief Majority Whip and Moderate Democratic Caucus leader to block omnibus developer-backed zoning preemption.",
         ],
         badge: "Chief Majority Whip Action",
       },
@@ -46,12 +46,12 @@ export default function HousingAffordabilityComparison() {
         bullets: [
           "Opposes 8-30g overreach and criticizes state mandates overriding local zoning commissions.",
           "Demands broad rollbacks to protect suburban neighborhoods from high-density projects.",
-          "Limitation: As a freshman in a deep legislative minority, Rizzo would lack the committee seats and cross-aisle votes necessary to repeal 8-30g.",
+          "Limitation: As a freshman in a legislative minority, Rizzo would face substantial hurdles to repeal 8-30g without bipartisan support.",
         ],
         badge: "Campaign Platform Position",
       },
       verdict:
-        "While both candidates express opposition to 8-30g abuse, Raghib is inside the legislative leadership room where bills are drafted and killed. He demonstrated the spine to fight progressive party leaders on zoning to protect Bethel and Danbury.",
+        "Both candidates oppose state preemption of local zoning. Raghib voted against HB 5002 and advanced amendments granting municipal housing points for local housing plans, while Rizzo advocates statutory repeal.",
     },
     {
       id: "fire-safety-modular",
@@ -60,9 +60,9 @@ export default function HousingAffordabilityComparison() {
       shortLabel: "Fire Safety & Modular Tech",
       headline: "Mandating Upfront Life Safety Reports for Novel Construction",
       summary:
-        "Out-of-town developers are increasingly exploiting 8-30g using novel prefabricated and modular building materials that present unique fire spread and structural hazards for local volunteer departments.",
+        "Developers have increasingly utilized 8-30g with prefabricated and modular building materials that present operational and structural considerations for local volunteer departments.",
       localBattle:
-        "Bethel Volunteer Fire Dept and Stony Hill Fire Dept raised serious operational concerns regarding emergency access, ladder reach, and specialized ventilation in rapid-assembly 8-30g complexes.",
+        "Bethel Volunteer Fire Dept and Stony Hill Fire Dept raised operational concerns regarding emergency access, ladder reach, and specialized ventilation in rapid-assembly developments.",
       raghibAction: {
         tagline: "Enacted Statutory Standards to Protect Firefighters and Tenants",
         bullets: [
@@ -70,19 +70,19 @@ export default function HousingAffordabilityComparison() {
           "Insisted that no developer can claim 8-30g immunity if local volunteer fire marshals determine life safety or emergency vehicle egress is compromised.",
           "Delivered direct funding and equipment grants for Bethel and Stony Hill volunteer fire houses.",
         ],
-        badge: "Firefighter Safety Champion",
+        badge: "Firefighter Safety Legislation",
       },
       rizzoStance: {
-        tagline: "Rhetorical Support for Police & Fire Without Policy Mechanisms",
+        tagline: "Platform Support for First Responders",
         bullets: [
-          "Regularly highlights 'Back the Blue' and support for first responders in campaign speeches.",
+          "Regularly emphasizes support for police and first responders in campaign speeches.",
           "Critiques 2020 police accountability statutes and supports volunteer firefighter benefits.",
-          "Limitation: Has not proposed specific regulatory frameworks or building code statutes to address modular fire spread or developer loopholes.",
+          "Limitation: Has not proposed specific regulatory frameworks or building code statutes regarding modular construction.",
         ],
-        badge: "Campaign Rhetoric",
+        badge: "Campaign Platform",
       },
       verdict:
-        "Raghib took the real concerns of Bethel volunteer fire chiefs to the General Assembly and translated them into statutory safeguards. He protects first responders with enforceable law, not just slogans.",
+        "Raghib brought the recommendations of local volunteer fire chiefs to the General Assembly, enacting statutory life-safety reporting standards and securing equipment funding for Bethel fire houses.",
     },
     {
       id: "state-mandates-hb5002",
@@ -91,29 +91,29 @@ export default function HousingAffordabilityComparison() {
       shortLabel: "HB 5002 & Top-Down Bills",
       headline: "Voting NO on Party-Line Mandates That Ignore School Capacity",
       summary:
-        "Statewide housing coalitions repeatedly introduced massive zoning bills—such as HB 5002 and 'Fair Share' formulas—attempting to force suburban towns to absorb rigid unit quotas regardless of sewer or school capacity.",
+        "Statewide housing coalitions introduced omnibus zoning bills (including HB 5002 and 'Fair Share' formulas) to assign unit quotas regardless of municipal sewer or school capacity.",
       localBattle:
-        "Danbury schools face severe enrollment growth, and Bethel's municipal sewer treatment plant operates within strict ecological limits. Top-down quotas would trigger devastating property tax spikes.",
+        "Danbury schools face enrollment growth, and Bethel's municipal sewer treatment plant operates within strict environmental permits. Top-down quotas would impact municipal operating budgets.",
       raghibAction: {
-        tagline: "Broke With Party Leadership to Vote NO on Rigid Mandates",
+        tagline: "Voted NO on Mandatory State Density Quotas",
         bullets: [
-          "Cast a decisive vote against HB 5002 and related mandatory density preemption measures that stripped town zoning oversight.",
-          "Warned that statewide formulas fail to account for Bethel and Danbury's unique municipal bonding limits, classroom sizes, and traffic arteries.",
-          "Earned CBIA 'Affordability Champion' status for resisting reckless spending and unbalanced regulatory expansions.",
+          "Cast a vote against HB 5002 and related mandatory density preemption measures that stripped town zoning oversight.",
+          "Stated that statewide formulas fail to account for Bethel and Danbury's unique municipal bonding limits, classroom sizes, and traffic arteries.",
+          "Received CBIA 'Affordability Champion' status for supporting spending limits and regulatory balance.",
         ],
         badge: "Bipartisan Independent Vote",
       },
       rizzoStance: {
         tagline: "Opposes 'Fair Share' & As-of-Right Commercial Conversions (HB 5396)",
         bullets: [
-          "Outspoken opponent of 'Fair Share' regional quotas that penalize towns lacking big-city infrastructure.",
-          "Fiercely criticizes HB 5396, which would allow commercial-to-residential conversions without public hearings.",
-          "Limitation: Offers no alternative policy to assist local young adults, teachers, or town employees who cannot afford high regional home prices.",
+          "Opponent of 'Fair Share' regional quotas that affect towns lacking large-scale municipal infrastructure.",
+          "Criticizes HB 5396, which would allow commercial-to-residential conversions without public hearings.",
+          "Limitation: Offers no alternative policy to assist local workers who cannot afford regional market rents.",
         ],
         badge: "Opposition Platform",
       },
       verdict:
-        "Raghib has proven his independence where it matters most: on roll-call votes in Hartford. When party leaders pushed omnibus mandates, Raghib voted NO to defend his hometown.",
+        "On the House floor, Raghib voted NO on HB 5002, opposing top-down density quotas that bypassed town infrastructure reviews.",
     },
     {
       id: "workforce-growth",
@@ -122,29 +122,29 @@ export default function HousingAffordabilityComparison() {
       shortLabel: "Transit & Downtown Growth",
       headline: "Incentive-Based Growth Around Bethel Train Station & Danbury Center",
       summary:
-        "True housing affordability requires sensible, organic starter housing for teachers, healthcare workers, and police officers—developed with community buy-in, not court lawsuits.",
+        "Workforce housing initiatives focus on starter housing for teachers, healthcare workers, and municipal employees, planned with local community input.",
       localBattle:
-        "Bethel's vibrant downtown rail district and Danbury's Main Street corridor have demonstrated that walk-to-train, mixed-use living revitalizes small businesses without suburban sprawl.",
+        "Bethel's downtown rail district and Danbury's Main Street corridor show that walk-to-train, mixed-use housing supports small businesses.",
       raghibAction: {
-        tagline: "Secured $5M+ in State Bonding for Infrastructure to Enable Smart Growth",
+        tagline: "Secured $5M+ in State Bonding for Infrastructure to Enable Downtown Growth",
         bullets: [
-          "Delivered $1.5M for the Clarke Business Park expansion and $500K for Parloa Park to bolster local municipal infrastructure.",
-          "Champions voluntary, incentive-driven transit-oriented development around the Bethel Danbury Branch rail line.",
-          "Supports targeted municipal tax relief for senior homeowners to help longtime residents downsize without leaving the district.",
+          "Delivered $1.5M for Clarke Business Park expansion and $500K for Parloa Park to bolster local municipal infrastructure.",
+          "Supports voluntary, incentive-driven transit-oriented development around the Bethel Danbury Branch rail line.",
+          "Supports targeted municipal tax relief for senior homeowners to help longtime residents remain in the community.",
         ],
-        badge: "Results & Capital Investment",
+        badge: "Capital Investment Record",
       },
       rizzoStance: {
-        tagline: "Strict Market Deregulation Without Proactive Starter-Home Plan",
+        tagline: "Market Deregulation Without Proactive Starter-Home Plan",
         bullets: [
-          "Advocates for free-market solutions and reducing government regulatory interference.",
-          "Opposes state subsidies and targeted incentives for mixed-income developments.",
-          "Limitation: Lacks actionable proposals to address escalating rents or provide attainable options for seniors on fixed incomes.",
+          "Advocates for free-market solutions and reducing government regulatory oversight.",
+          "Believes lowering state business taxes will organically spur housing development.",
+          "Limitation: Market solutions alone have not produced starter-home price points in Fairfield County without municipal infrastructure assistance.",
         ],
-        badge: "Free-Market Philosophy",
+        badge: "Market-Oriented Platform",
       },
       verdict:
-        "Raghib combines strong defense of local zoning with affirmative infrastructure bonding. He brings state money back to Bethel and Danbury to make smart, walk-to-train growth possible on our own terms.",
+        "Raghib voted against state preemption while securing capital infrastructure bonding for downtown transit corridors. Rizzo opposes density mandates and supports market deregulation.",
     },
   ];
 
@@ -272,7 +272,7 @@ export default function HousingAffordabilityComparison() {
               </ul>
 
               <div className="p-3.5 rounded-xl bg-blue-100/60 border border-blue-200 text-xs text-blue-950 font-medium">
-                <strong>Proven Action:</strong> Raghib has the internal coalition leverage within the House majority to block extreme zoning mandates and protect municipal autonomy.
+                <strong>Legislative Action:</strong> Raghib works within the Moderate Democratic Caucus to block omnibus zoning preemption and protect municipal autonomy.
               </div>
             </div>
 

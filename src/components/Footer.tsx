@@ -23,10 +23,10 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-xs text-slate-400 leading-relaxed max-w-lg">
-              This voter education platform provides an in-depth, research-backed examination of the 2026 race for Connecticut's 2nd House District, representing Bethel and Danbury. We evaluate public records, legislative roll-call votes, committee actions, and published campaign platforms to assist voters in making an informed decision.
+              This voter education platform reviews the 2026 election for Connecticut's 2nd House District, representing Bethel and Danbury. It compiles public records, legislative roll-call votes, committee actions, and published campaign platforms to assist voters in evaluating candidate records and proposals.
             </p>
             <div className="text-[11px] text-slate-500 bg-slate-900 p-3 rounded-lg border border-slate-800">
-              <strong>Methodology:</strong> Statements by Debbie Rizzo are sourced from her 2026 campaign releases, municipal forum remarks, and public campaign positions. Legislative accomplishments of Rep. Raghib Allie-Brennan are verified through official Connecticut General Assembly records (cga.ct.gov), public acts, and State Bond Commission minutes.
+              <strong>Methodology:</strong> Statements by Debbie Rizzo are sourced from her 2026 campaign releases, municipal forum remarks, and public campaign positions. Legislative actions of Rep. Raghib Allie-Brennan are verified through official Connecticut General Assembly records (cga.ct.gov), public acts, and State Bond Commission minutes.
             </div>
           </div>
 
@@ -58,7 +58,7 @@ export default function Footer() {
               </li>
               <li>
                 <a href="#deep-dive" className="hover:text-white transition-colors">
-                  In-Depth Policy Reports
+                  Policy Analysis
                 </a>
               </li>
               <li>

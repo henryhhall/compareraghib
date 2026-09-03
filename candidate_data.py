@@ -104,8 +104,8 @@ ISSUE_STANCES: List[IssueStance] = [
             "renewable energy portfolio requirements."
         ),
         district_verdict=(
-            "While Rizzo criticizes rates rhetorically, Raghib actually wrote "
-            "the law that legally strips Eversource of guaranteed profits."
+            "While Rizzo criticizes rates in campaign statements, Raghib "
+            "co-authored PA 20-5 establishing performance-based regulation."
         ),
         raghib_score=96,
         rizzo_score=48,
@@ -114,9 +114,9 @@ ISSUE_STANCES: List[IssueStance] = [
         issue_id="taxes",
         topic="State Taxes, Fiscal Guardrails & Property Tax Relief",
         raghib_action=(
-            "Voted for the largest middle-class income tax cut in CT history "
-            "and eliminated state tax on pensions; named CBIA Affordability "
-            "Champion."
+            "Voted for the middle-class income tax cut (PA 23-204) and "
+            "eliminated state tax on pensions; recognized as CBIA "
+            "Affordability Champion."
         ),
         rizzo_position=(
             "Promises general spending cuts in Hartford to lower homeowner "
@@ -124,7 +124,7 @@ ISSUE_STANCES: List[IssueStance] = [
         ),
         district_verdict=(
             "Raghib lowered income and retirement taxes while safeguarding "
-            "state school aid that shields Bethel and Danbury property taxes."
+            "state school aid that supports Bethel and Danbury municipal budgets."
         ),
         raghib_score=94,
         rizzo_score=52,
@@ -133,7 +133,7 @@ ISSUE_STANCES: List[IssueStance] = [
         issue_id="infrastructure",
         topic="Direct Capital Bonding for Bethel and Danbury",
         raghib_action=(
-            "Secured $500K+ for Parloa Park revitalization, $1.5M for Francis "
+            "Secured $500K for Parloa Park renovation, $1.5M for Francis "
             "J. Clarke Business Park, and grants for volunteer fire houses."
         ),
         rizzo_position=(
@@ -141,8 +141,8 @@ ISSUE_STANCES: List[IssueStance] = [
             "Commission or executive agencies."
         ),
         district_verdict=(
-            "As Chief Majority Whip, Raghib has direct leverage in Hartford to "
-            "bring millions back to Bethel and Danbury."
+            "As Chief Majority Whip, Raghib participates in House leadership "
+            "negotiations to direct state capital bonding to Bethel and Danbury."
         ),
         raghib_score=98,
         rizzo_score=35,
@@ -151,17 +151,17 @@ ISSUE_STANCES: List[IssueStance] = [
         issue_id="safety",
         topic="First Responders, Public Safety & Survivor Protections",
         raghib_action=(
-            "Passed landmark PA 23-115 standardizing domestic violence "
+            "Passed bipartisan PA 23-115 standardizing domestic violence "
             "lethality assessments statewide; funded Stony Hill and Bethel "
             "volunteer fire departments."
         ),
         rizzo_position=(
-            "Emphasizes 'Back the Blue' rhetoric and calls to revisit 2020 "
+            "Emphasizes law enforcement support and calls to revisit 2020 "
             "police accountability laws."
         ),
         district_verdict=(
-            "Raghib backs first responders with actual equipment grants and "
-            "authored the state's gold-standard domestic violence law."
+            "Raghib secured equipment grants for local volunteer fire houses "
+            "and authored statewide domestic violence assessment standards."
         ),
         raghib_score=95,
         rizzo_score=55,
@@ -170,19 +170,18 @@ ISSUE_STANCES: List[IssueStance] = [
         issue_id="housing",
         topic="Housing Affordability, CT 8-30g & Local Zoning Control",
         raghib_action=(
-            "Broke with Hartford leadership to vote NO on top-down omnibus "
-            "housing mandates (HB 5002); fought predatory 8-30g developer "
-            "lawsuits in Bethel (Vessel Tech); co-sponsored Life Safety "
-            "Reports for modular construction."
+            "Voted NO on top-down omnibus housing mandates (HB 5002); "
+            "supported Bethel residents in 8-30g developer appeals (Vessel Tech); "
+            "co-sponsored Life Safety Reports for modular construction."
         ),
         rizzo_position=(
             "Calls for rolling back 8-30g and opposes regional 'Fair Share' "
             "mandates and as-of-right commercial conversions (HB 5396)."
         ),
         district_verdict=(
-            "Both candidates criticize 8-30g, but Raghib is Chief Majority "
-            "Whip with the votes to stop hostile mandates and protect town "
-            "zoning, whereas a minority freshman cannot repeal statutes."
+            "Both candidates oppose state preemption of local zoning. Raghib "
+            "voted against HB 5002 and advanced local planning amendments, "
+            "while Rizzo advocates statutory repeal."
         ),
         raghib_score=95,
         rizzo_score=56,
